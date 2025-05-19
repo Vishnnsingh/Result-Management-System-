@@ -1,0 +1,133 @@
+[
+    {
+      "id": 1,
+      "rollNumber": "101",
+      "class": "1",
+      "name": "Aman",
+      "subjects": {
+        "English": 78,
+        "Maths": 85,
+        "EVS": 90,
+        "Hindi": 88,
+        "Drawing": 95
+      }
+    },
+    {
+      "id": 2,
+      "rollNumber": "102",
+      "class": "2",
+      "name": "Ravi",
+      "subjects": {
+        "English": 68,
+        "Maths": 75,
+        "EVS": 80,
+        "Hindi": 70,
+        "Drawing": 85
+      }
+    },
+    {
+      "id": 3,
+      "rollNumber": "103",
+      "class": "3",
+      "name": "Simran",
+      "subjects": {
+        "English": 82,
+        "Maths": 89,
+        "EVS": 88,
+        "Hindi": 84,
+        "Drawing": 90
+      }
+    },
+    {
+      "id": 4,
+      "rollNumber": "104",
+      "class": "4",
+      "name": "Pooja",
+      "subjects": {
+        "English": 74,
+        "Maths": 79,
+        "EVS": 85,
+        "Hindi": 80,
+        "Drawing": 87
+      }
+    },
+    {
+      "id": 5,
+      "rollNumber": "105",
+      "class": "5",
+      "name": "Rohan",
+      "subjects": {
+        "English": 90,
+        "Maths": 92,
+        "EVS": 87,
+        "Hindi": 91,
+        "Drawing": 93
+      }
+    },
+    {
+      "id": 6,
+      "rollNumber": "106",
+      "class": "6",
+      "name": "Neha",
+      "subjects": {
+        "English": 88,
+        "Maths": 84,
+        "Science": 79,
+        "Social Science": 81,
+        "Hindi": 85
+      }
+    },
+    {
+      "id": 7,
+      "rollNumber": "107",
+      "class": "7",
+      "name": "Karan",
+      "subjects": {
+        "English": 72,
+        "Maths": 78,
+        "Science": 74,
+        "Social Science": 69,
+        "Hindi": 75
+      }
+    },
+    {
+      "id": 8,
+      "rollNumber": "108",
+      "class": "8",
+      "name": "Anjali",
+      "subjects": {
+        "English": 85,
+        "Maths": 90,
+        "Science": 88,
+        "Social Science": 87,
+        "Hindi": 89
+      }
+    },
+    {
+      "id": 9,
+      "rollNumber": "109",
+      "class": "9",
+      "name": "Sahil",
+      "subjects": {
+        "English": 80,
+        "Maths": 77,
+        "Science": 79,
+        "Social Science": 75,
+        "Hindi": 78
+      }
+    },
+    {
+      "id": 10,
+      "rollNumber": "110",
+      "class": "10",
+      "name": "Priya",
+      "subjects": {
+        "English": 92,
+        "Maths": 95,
+        "Science": 90,
+        "Social Science": 93,
+        "Hindi": 94
+      }
+    }
+  ]
+  
